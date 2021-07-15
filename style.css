@@ -1,0 +1,87 @@
+header div {
+    display: inline-block;
+}
+
+#head {
+    float: left;
+    
+}
+
+#fb {
+    float: right;
+}
+
+#fb li {
+    display: inline-block;
+}
+
+#head img { display: inline-block;
+
+
+}
+#head h1 {
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family:'Great Vibes', cursive;
+   
+}
+#head p{
+    display: block;
+    width: 200px;
+}
+
+hr {
+    width : 100%;
+    background-image: url("img/lab-assets/lab-assets/hr-img.png"); 
+    height: 25px;
+}
+
+#print img {
+    float: right;
+
+}
+#print p {
+    float: left;
+}
+
+#table img {
+
+  position: absolute;  
+
+  padding: 50px;
+
+    
+
+}
+ #abso ul {
+    position: relative;
+    display: inline-block;
+    float: left;
+    margin-left: 100px;
+    margin-top: 80px;
+    padding: 0px;
+    font-size: 20px;
+    
+}
+
+#right ul {
+    position: relative;
+    margin-right: 400px;
+    display: inline-block;
+    margin-top: 80px;
+    float: right;
+    font-size: 20px;
+    
+
+}
+
+#bigPhoto img {
+    width: 100%;
+    
+}
+
+body{
+    padding: 50px;
+}
